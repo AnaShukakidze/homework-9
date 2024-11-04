@@ -1,0 +1,64 @@
+@media (max-width: 1301px) {
+
+    /* header */
+    header {
+        padding: 6px 57px;
+    }
+
+    /* section 1 */
+    .section1 {
+        padding: 0 57px;
+    }
+
+    /* section 2 */
+    .section2 {
+        padding: 48px 57px;
+    }
+
+    /* section 3 */
+    .section3 {
+        padding: 48px 57px;
+    }
+
+    .section3Section article {
+        width: 49.3%;
+    }
+
+    .section3Article7,
+    .section3Article8,
+    .section3Article9 {
+        display: none;
+    }
+}
+
+@media (max-width: 835px) {
+
+    /* header */
+    header {
+        padding: 6px 46px;
+    }
+
+    /* section 1 */
+    .section1 {
+        height: 438px;
+        padding: 0 46px;
+    }
+
+    /* section 2 */
+    .section2 {
+        padding: 40px 46px;
+    }
+
+    .section2Section article {
+        width: 48.65%;
+    }
+
+    .section2Article3 {
+        display: none;
+    }
+
+    /* section 3 */
+    .section3 {
+        padding: 40px 46px;
+    }
+}
