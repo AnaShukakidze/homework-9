@@ -2,7 +2,7 @@
 
     /* header */
     header {
-        padding: 9px 38px;
+        padding-inline: 38px;
     }
 
     .fa-bars {
@@ -15,18 +15,16 @@
 
     /* section 1 */
     .section1 {
-        padding: 0 38px;
+        padding-inline: 38px;
     }
 
     .section1 h2 {
         font-size: 32px;
-        font-weight: 400;
         line-height: 40px;
     }
 
     .section1 p {
         font-size: 14px;
-        font-weight: 400;
         line-height: 22px;
     }
 

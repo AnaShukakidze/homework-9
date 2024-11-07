@@ -2,12 +2,12 @@
 
     /* header */
     header {
-        padding: 6px 57px;
+        padding-inline: 57px;
     }
 
     /* section 1 */
     .section1 {
-        padding: 0 57px;
+        padding-inline: 57px;
     }
 
     /* section 2 */
@@ -35,13 +35,13 @@
 
     /* header */
     header {
-        padding: 6px 46px;
+        padding-inline: 46px;
     }
 
     /* section 1 */
     .section1 {
         height: 438px;
-        padding: 0 46px;
+        padding-inline: 46px;
     }
 
     /* section 2 */
